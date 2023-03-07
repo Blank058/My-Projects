@@ -1,0 +1,39 @@
+.container{
+    position: absolute;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.item-1 {
+    background-color: green;
+    color: #fff;
+    height: 100%;
+    width: 200px;
+    text-align: center;
+
+ 
+    padding: 25px 0;
+
+}
+
+img{
+    height:50px;
+    width:50px;
+}
+
+.img{
+    text-align:left;
+    padding: 25px; 
+    border-radius: 360px; 
+    width: 50px;
+    display: inline-block;
+    background-color: #fff;
+    margin: 25px;
+}
+
+.list{
+    text-align: left;
+    color: aqua;
+    background-color: violet ;
+}
